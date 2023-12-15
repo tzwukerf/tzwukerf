@@ -1,6 +1,4 @@
-# Hi there 👋
-
-Welcome to my Github! Enjoy your stay :)
+# Welcome to my Github! Enjoy your stay :)
 
 ## <h1 align="center">About Me</h1>
 <div align="center">

@@ -42,8 +42,6 @@ You can email me at tzwukerf@gmail.com. Always willing to chat, no matter what i
 - Reworking a web game I made in high school
 - eCTF participation with b01lers
 
-# Archived Projects
-
 <!--
 **tzwukerf/tzwukerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

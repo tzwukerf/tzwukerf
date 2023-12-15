@@ -2,7 +2,7 @@
 
 Welcome to my Github! Enjoy your stay :)
 
-# <h1 align="center">About Me</h1>
+### <h1 align="center">About Me</h1>
 <div align="center">
 Purdue Computer Science senior interested in software security and elegant problem solving. Check out my resume if you're interested!
 
@@ -11,11 +11,11 @@ Abstract strategy games and logic puzzle enthusiast. Avid Riichi Mahjong player.
 You can email me at tzwukerf@gmail.com. Always willing to chat, no matter what it is. Messages are always welcome.
 </div>
 
-###
+#
 
-<h2 align="left">I mainly code with</h2>
+<h2 align="center">I mainly code with</h2>
 
-###
+#
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />

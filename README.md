@@ -2,7 +2,7 @@
 
 Welcome to my Github! Enjoy your stay :)
 
-# <h2 align="center">About Me</h2>
+# <h1 align="center">About Me</h1>
 <div align="center">
 Purdue Computer Science senior interested in software security and elegant problem solving. Check out my resume if you're interested!
 

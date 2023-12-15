@@ -2,12 +2,38 @@
 
 Welcome to my Github! Enjoy your stay :)
 
-# About Me
+# <h2 align="center">About Me</h2>
+<div align="center">
 Purdue Computer Science senior interested in software security and elegant problem solving. Check out my resume if you're interested!
 
 Abstract strategy games and logic puzzle enthusiast. Avid Riichi Mahjong player. Lover of poetry and good writing.
 
 You can email me at tzwukerf@gmail.com. Always willing to chat, no matter what it is. Messages are always welcome.
+</div>
+
+###
+
+<h2 align="left">I mainly code with</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
 
 # Current Projects
 

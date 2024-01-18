@@ -6,7 +6,7 @@ Purdue Computer Science senior interested in software security and elegant probl
 
 Abstract strategy games and logic puzzle enthusiast. Avid Riichi Mahjong player. Lover of poetry and tarantulas.
 
-You can email me at tzwukerf@gmail.com. Always willing to chat, no matter what it is. Messages are always welcome.
+You can email me at tzwukerf@gmail.com. Messages are always welcome.
 </div>
 
 #
@@ -35,6 +35,7 @@ You can email me at tzwukerf@gmail.com. Always willing to chat, no matter what i
 
 ## Current Projects
 
+- CTF Challenge about the Neutral Zone
 - Rewards Accounts Manager
 - Raspberry Pi
 - Reworking a web game I made in high school
